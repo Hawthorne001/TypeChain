@@ -18,7 +18,7 @@
     "ganache": "^7.8.0",
     "test-utils": "1.0.0",
     "typechain": "workspace:^8.3.2",
-    "web3": "^1.6.0",
+    "web3": "^1.7.2",
     "web3-eth-contract": "^1.6.0",
     "web3-core": "^1",
     "@types/bn.js": "^4.11.6"
