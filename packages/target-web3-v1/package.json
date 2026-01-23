@@ -46,7 +46,7 @@
     "@types/bn.js": "^4.11.6"
   },
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "ts-essentials": "^7.0.1"
   }
 }
