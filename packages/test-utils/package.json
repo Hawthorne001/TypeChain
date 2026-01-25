@@ -23,7 +23,7 @@
     "bignumber.js": "9.0.1",
     "conditional-type-checks": "^1.0.5",
     "glob": "7.1.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "retry-as-promised": "^5.0.0",
     "ts-essentials": "^7.0.1"
   }
